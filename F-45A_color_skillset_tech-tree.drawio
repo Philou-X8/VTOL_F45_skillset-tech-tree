@@ -1,0 +1,713 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="TMd6nhEQDs3-jq3hP6Us">
+    <mxGraphModel dx="4894" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OdJYltX6V4EfuCfINlT8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-1" target="OdJYltX6V4EfuCfINlT8-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-1" target="OdJYltX6V4EfuCfINlT8-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-1" target="OdJYltX6V4EfuCfINlT8-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;EOTS&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;General EOTS usage&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Laser trolling&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;At night, the laser can be used to designate or highlight targets for your team&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Head track&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Putting EOTS in head track allows for quick scan of the sky, in search of targets.&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;PIP mode&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;PIP mode on the EOTS keeps the pipper visible at higher lead pursuit angles&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-10" target="OdJYltX6V4EfuCfINlT8-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-10" target="OdJYltX6V4EfuCfINlT8-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RWR&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Acknowledging the RWR&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="360" y="200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-12" target="OdJYltX6V4EfuCfINlT8-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="570" />
+              <mxPoint x="780" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-12" target="4XE9i7xT9-EwP7xx3Ev2-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="570" />
+              <mxPoint x="90" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-12" target="3U1bAlN1V-ga17zZOjfs-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="900" />
+              <mxPoint x="320" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Tracking missiles&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Identifying major missile types from the RWR, and locating radar missile before DAS does&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-14" target="OdJYltX6V4EfuCfINlT8-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-14" target="4XE9i7xT9-EwP7xx3Ev2-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="550" />
+              <mxPoint x="1020" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Tracking aircraft&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Most RWR pings do not translate accurately to the TSD&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="480" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Aircraft identification&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Know what the numbers and letters mean&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="480" y="600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-18" target="OdJYltX6V4EfuCfINlT8-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-18" target="OdJYltX6V4EfuCfINlT8-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-18" target="OdJYltX6V4EfuCfINlT8-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-18" target="OdJYltX6V4EfuCfINlT8-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TSD&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Putting the TSD window in full size, and knowing how to read the TSD&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-20" target="OdJYltX6V4EfuCfINlT8-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="560" />
+              <mxPoint x="1150" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-20" target="4XE9i7xT9-EwP7xx3Ev2-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Selecting target&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Selecting a target and keeping a good zoom level relative to that target&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="960" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-22" target="OdJYltX6V4EfuCfINlT8-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="560" />
+              <mxPoint x="1500" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-22" target="OdJYltX6V4EfuCfINlT8-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="560" />
+              <mxPoint x="1170" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;EOTS slaving&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Using the TSD to point the EOTS at a target&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-24" target="OdJYltX6V4EfuCfINlT8-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Dead tracks&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Recognising when a TSD track is inaccurate or outdated&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-26" target="OdJYltX6V4EfuCfINlT8-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Trackfile control&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;There are many ways to control when trackfiles are updated&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-28" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AIM-120D curveball&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Dead tracks can be use to make AIM-120D reach the enemy from weird angles&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="800" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Visual missile guidance&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;AIM-120D can be launched from the TSD without the use of the radar&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-33" target="OdJYltX6V4EfuCfINlT8-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-33" target="OdJYltX6V4EfuCfINlT8-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-33" target="OdJYltX6V4EfuCfINlT8-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1880" y="560" />
+              <mxPoint x="1770" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-33" target="4XE9i7xT9-EwP7xx3Ev2-73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1880" y="560" />
+              <mxPoint x="2000" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-33" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Radar&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Radar should be off most of the time&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-35" target="OdJYltX6V4EfuCfINlT8-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1750" y="560" />
+              <mxPoint x="1540" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Blinking&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Blinking your radar update your TSD tracks&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Angle control&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Limiting the search angle limits the number of enemy RWR notified&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-39" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Scare tactics&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Many players react strongly to seeing a F45 on their RWR&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-41" target="OdJYltX6V4EfuCfINlT8-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-41" target="4XE9i7xT9-EwP7xx3Ev2-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="760" />
+              <mxPoint x="1270" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-41" target="4XE9i7xT9-EwP7xx3Ev2-75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="760" />
+              <mxPoint x="-40" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-41" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Missile identification&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;The exact model of the incoming missile is written on your TSD. Read it&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="720" y="600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-43" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Visual identification&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Missile can be told appart by how they fly&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="720" y="800" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-45" target="4XE9i7xT9-EwP7xx3Ev2-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="OdJYltX6V4EfuCfINlT8-45" target="4XE9i7xT9-EwP7xx3Ev2-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="960" />
+              <mxPoint x="450" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OdJYltX6V4EfuCfINlT8-45" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;RCS management&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Certain side of the aircraft have different RCS&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="480" y="800" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-1" target="4XE9i7xT9-EwP7xx3Ev2-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1390" y="1160" />
+              <mxPoint x="1290" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-1" target="4XE9i7xT9-EwP7xx3Ev2-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="1160" />
+              <mxPoint x="1520" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Engine cooling&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Engines take a long time to cool down so being aware of their heat long before you need them to be cold is important&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="1000" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-2" target="3U1bAlN1V-ga17zZOjfs-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Flaring&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Flaring require a cold engine, proper flare spacing and an appropriate aspect for heaters to bite on flare&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-4" target="4XE9i7xT9-EwP7xx3Ev2-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AB light removal&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Turning your afterburner (AB) off makes you a lot harder to see, both to human eyes and IR missile seeker&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-7" target="4XE9i7xT9-EwP7xx3Ev2-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="1560" />
+              <mxPoint x="1760" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-7" target="4XE9i7xT9-EwP7xx3Ev2-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Slow running&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Flying without afterburner requires better speed management&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="1400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Sonic cone removal&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Staying bellow mach 1 prevents any visible sonic cone from giving away your position&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="1600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-13" target="4XE9i7xT9-EwP7xx3Ev2-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Cold running&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Flying with cold engine makes you less vulnerable to thermal sensors&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="1600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-122" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-15" target="4XE9i7xT9-EwP7xx3Ev2-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AIRS-T denial&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Cold engine and continuous flaring will defeat AIRS-T the moment they are fired&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="1800" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-22" target="4XE9i7xT9-EwP7xx3Ev2-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-22" target="4XE9i7xT9-EwP7xx3Ev2-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="1360" />
+              <mxPoint x="810" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-22" target="4XE9i7xT9-EwP7xx3Ev2-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="1360" />
+              <mxPoint x="1150" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Jammer&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Jammers cannot break hard lock, they only mess with radar seeker&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="960" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-24" target="4XE9i7xT9-EwP7xx3Ev2-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="1560" />
+              <mxPoint x="910" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Dead-tracking yourself&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;HOJ missile can be lead astray by turning off your jammer and changing course&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-26" target="4XE9i7xT9-EwP7xx3Ev2-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="1560" />
+              <mxPoint x="930" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-128" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-26" target="4XE9i7xT9-EwP7xx3Ev2-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;HOJ counter&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Keeping your jammer on for long will lead to HOJ missile being fired at you&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="960" y="1400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-28" target="4XE9i7xT9-EwP7xx3Ev2-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-28" target="4XE9i7xT9-EwP7xx3Ev2-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-28" target="4XE9i7xT9-EwP7xx3Ev2-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-28" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Nose pointing&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;The F-45A is nearly invisible to radar from the front&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1000" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Lock breaking&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Pointing the nose at a radar lock will break it if the radar is far enough&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-137" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-33" target="4XE9i7xT9-EwP7xx3Ev2-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-33" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Lock prevention&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Jammer can prevent radar locks when too close or unable to point the nose at them&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Missile jamming&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Proper jammer toggling will defeat both types of seeker (HOJ and radar), and send the missile away&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-38" target="4XE9i7xT9-EwP7xx3Ev2-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="1340" />
+              <mxPoint x="790" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-38" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Dead-tracking TSDs&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Disappearing from 5th gen radar will send a dead track with your last known heading&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-60" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Notching&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Notching can defeat pitbulled radar missile or make you invisible to aircraft radar&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-62" target="4XE9i7xT9-EwP7xx3Ev2-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-62" target="4XE9i7xT9-EwP7xx3Ev2-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1560" />
+              <mxPoint x="430" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-62" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Chaffing&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Chaffing can redirect the radar seeker to your chaff and lead the missile away&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-64" target="4XE9i7xT9-EwP7xx3Ev2-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-64" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Belly pointing&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Showing the top or belly of your plane increase RCS, for a quicker pitbull&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-66" target="4XE9i7xT9-EwP7xx3Ev2-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-66" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Bay door control&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Opening the weapon bay doors increase RCS, for a quicker pitbull&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-138" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-68" target="4XE9i7xT9-EwP7xx3Ev2-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-68" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Early chaff&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;The sooner the missile pitbull, the more time you have to chaff&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1800" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-73" target="4XE9i7xT9-EwP7xx3Ev2-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-73" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Point mode&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Point mode slaves the radar to the TSD and allows for a PIP in some scenarios where DAS and EOTS cannot provide&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-75" target="4XE9i7xT9-EwP7xx3Ev2-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-75" target="4XE9i7xT9-EwP7xx3Ev2-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-75" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Barrel g-pull&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Large barrel roll with full inward rudder can g-pull radar missiles&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="800" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-79" target="4XE9i7xT9-EwP7xx3Ev2-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="1160" />
+              <mxPoint x="70" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-79" target="4XE9i7xT9-EwP7xx3Ev2-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t71R9gxpc0KiyAEuYjX0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-79" target="t71R9gxpc0KiyAEuYjX0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-79" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Advanced g-pull&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Using airbrake allows for shorter g-pulls and more control over the aircraft flight path&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="1000" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-140" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-81" target="4XE9i7xT9-EwP7xx3Ev2-126" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="1540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-81" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Backward g-pull&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Missile coming from behind can be g-pulled&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-83" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Sideway g-pull&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Proper positioning and timing makes possible to g-pull from the side&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="1400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t71R9gxpc0KiyAEuYjX0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-86" target="4XE9i7xT9-EwP7xx3Ev2-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t71R9gxpc0KiyAEuYjX0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-86" target="4XE9i7xT9-EwP7xx3Ev2-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-86" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Switch pull&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Turning off the main battery locks your control surfaces in place&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="1000" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t71R9gxpc0KiyAEuYjX0-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-91" target="4XE9i7xT9-EwP7xx3Ev2-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-91" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Light switch&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Proper timing makes it possibe to g-pull missiles from all aspect&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="1400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-99" target="4XE9i7xT9-EwP7xx3Ev2-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-99" target="4XE9i7xT9-EwP7xx3Ev2-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-99" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;BFM&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Basic flight manoeuvre are textbook tactics used in dogfighting&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="800" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-101" target="4XE9i7xT9-EwP7xx3Ev2-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-101" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Rate fight&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Being able to close in on the enemy and get nose on first gives you a massive advantage&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1000" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-103" target="4XE9i7xT9-EwP7xx3Ev2-109" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1890" y="1160" />
+              <mxPoint x="2000" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-103" target="4XE9i7xT9-EwP7xx3Ev2-107" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1870" y="1160" />
+              <mxPoint x="1760" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-103" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Viffing&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Vectoring in forward flight uses the VTOL engine to allow otherwise impossible manoeuvres during BFM&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1000" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-105" target="4XE9i7xT9-EwP7xx3Ev2-107" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-105" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Verticality&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Gravity can be and should be used in dogfights&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="1000" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-107" target="4XE9i7xT9-EwP7xx3Ev2-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-107" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Stationary pivot&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;If out of speed, an upward engine tilt will retain control of the aircraft, making it possible to point the nose anywhere desired&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-109" target="4XE9i7xT9-EwP7xx3Ev2-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-109" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Circle camping&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Viffing lets you sit inside the enemy&#39;s turn circle&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-113" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Stationary notch&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Being immobile in space makes it possible to notch&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="1400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-115" target="4XE9i7xT9-EwP7xx3Ev2-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-115" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Target switching&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;knowing to switch target when one is cold&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2160" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-117" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;1vs2 dogfight&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;By bouncing from target to target at the right time, multiple enemy can be dogfighted at the same time&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-120" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Reaper merge&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;By pushing the aircraft&#39;s passive defences to their limits and adding a bit of manual defences, it is possible to deny enemy aircraft of all their sensor. In the merge, 4th Gen aircraft will have nothing left other than their gun funnel (unless they have a TGP, they are fast enough at using it, and there&#39;s no clouds). 5th gen will have DAS which gives them a PIP for their gun.&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1800" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-126" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;BVR angel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;With proper use of stealth and missile evasion techniques, it is possible to simply not die. If safe distance are kept, the aircraft will become an unattainable target, free to rain missile on the enemy&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="1800" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-131" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-129" target="4XE9i7xT9-EwP7xx3Ev2-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-129" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Gunning on the merge&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;The dogfight can be over before it started&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1600" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-135" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-133" target="4XE9i7xT9-EwP7xx3Ev2-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-133" value="Barrel g-pull" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="650" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-134" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" target="4XE9i7xT9-EwP7xx3Ev2-133" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1800" as="sourcePoint" />
+            <mxPoint x="610" y="1890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-144" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-141" target="4XE9i7xT9-EwP7xx3Ev2-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-141" value="EOTS&lt;br&gt;Head track" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-143" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4XE9i7xT9-EwP7xx3Ev2-142" target="4XE9i7xT9-EwP7xx3Ev2-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-142" value="Radar" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-146" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" target="4XE9i7xT9-EwP7xx3Ev2-141" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="1620" as="sourcePoint" />
+            <mxPoint x="-320" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-147" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="1660" as="sourcePoint" />
+            <mxPoint x="36.25" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-148" value="&lt;font style=&quot;font-size: 48px;&quot;&gt;F-45A PVP skillset tech tree&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="40" width="640" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3U1bAlN1V-ga17zZOjfs-1" target="4XE9i7xT9-EwP7xx3Ev2-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1360" />
+              <mxPoint x="560" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3U1bAlN1V-ga17zZOjfs-1" target="4XE9i7xT9-EwP7xx3Ev2-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Beaming&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Putting the radar source at 90° on your sides lets you transition into defensive manoeuvres&amp;nbsp;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-8" value="V 1.5&lt;br&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2024-10-07&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;discord @philou_x8&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1140" y="40" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-14" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="780" as="sourcePoint" />
+            <mxPoint x="2340" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-15" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="980" as="sourcePoint" />
+            <mxPoint x="1620" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540" y="980" as="sourcePoint" />
+            <mxPoint x="1620" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-17" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540" y="1180" as="sourcePoint" />
+            <mxPoint x="1660" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-18" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1660" y="1540" as="sourcePoint" />
+            <mxPoint x="2340" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-19" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2340" y="780" as="sourcePoint" />
+            <mxPoint x="2340" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-20" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540" y="980" as="sourcePoint" />
+            <mxPoint x="1540" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-21" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1660" y="1180" as="sourcePoint" />
+            <mxPoint x="1660" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-22" value="Colors in the BFM sub-tree are relative to other skill in the sub-tree only and do not follow the color code of the rest of the tech-tree." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2080" y="780" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Legend&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Colors are based on skill complexity and importance. &lt;br&gt;They give an idea of the order in which the skills should be learned.&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="1570" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Green&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Mandatory skills.&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="1650" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-26" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Yellow&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Easy but need basic understanding of the aircraft and its instruments.&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="1730" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Orange&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Requires quick analysis of all the information at your disposal, and knowledge on how your actions affect your surrounding.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="1810" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-28" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Red&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Needs a lot of prior experience and good judgment. Cause heavy workload, so very good familiarity with the aircraft is required.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1920" y="1890" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3U1bAlN1V-ga17zZOjfs-29" target="4XE9i7xT9-EwP7xx3Ev2-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="1760" />
+              <mxPoint x="1400" y="1760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3U1bAlN1V-ga17zZOjfs-29" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Pre-flaring&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Slowly releasing flares before the heater is even fired can prevent locks&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t71R9gxpc0KiyAEuYjX0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="t71R9gxpc0KiyAEuYjX0-7" target="4XE9i7xT9-EwP7xx3Ev2-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="1360" />
+              <mxPoint x="-60" y="1360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t71R9gxpc0KiyAEuYjX0-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Over the shoulder&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;By rapidly increasing roll at the last moment, missiles that normally could not be g-pulled will pass over your wing&amp;nbsp;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t71R9gxpc0KiyAEuYjX0-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Prerequisite&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1810" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t71R9gxpc0KiyAEuYjX0-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Logical follow-up&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1890" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t71R9gxpc0KiyAEuYjX0-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1690" y="1859.71" as="sourcePoint" />
+            <mxPoint x="1830" y="1859.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t71R9gxpc0KiyAEuYjX0-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1690" y="1940" as="sourcePoint" />
+            <mxPoint x="1830" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4XE9i7xT9-EwP7xx3Ev2-89" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Hard switch&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height: 2px; padding-top: 0px; padding-left: 0px; padding-right: 0px; margin-left: 5px; margin-right: 5px;&quot;&gt;Maintaining the control surfaces locked for the right amount of time can lead to a cobra manoeuvre&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;spacing=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
